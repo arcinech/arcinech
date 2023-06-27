@@ -1,9 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcinech&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Welcome to My repository.
 
-You can find all my meanfull projects here.
+You can find all my journey with projects here.
 A lot of work was created during full-stack bootcamp.
 
 I can program mostly in JS and typescript. 
